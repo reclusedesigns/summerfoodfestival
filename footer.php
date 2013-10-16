@@ -3,9 +3,10 @@
 	<div class="container">
 		<hr>
 		<ul class="list-inline">
-			<li>&copy; Capsule 2013</li>
+			<li>&copy; Cartel Ventures</li>
 			<li>Terms and Conditions</li>
 			<li>Privacy</li>
+			<li class=pull-right><a href="http://capsule.vc">Capsule Made</a></li>
 		</ul>
 	</div>
 </footer>
