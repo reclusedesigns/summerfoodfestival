@@ -2,55 +2,128 @@
 
 
 <section class="hero">
-	<h3>Look out, Batman!</h3>
-	<h1>Food, beer, sun, fun</h1>
-	<!-- insert video -->
+	<h3>Coming this summer</h3>
+	<h1>Taste the world</h1>
+	<img class="img-responsive" src="design/images/home/hero/hero.jpg" alt="hero" />
 </section>
 
 <section class="big_details">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
-				<p><small>When</small></p>
-				<p>Starts on 9th December</p>
+				<div class="big_detail">
+					<img src="design/images/home/big_details/calendar.png" alt="calendar"/>
+					<p><small>When</small></p>
+					<p>Starts <span>9th of December</span></p>
+				</div>
 			</div>
 			<div class="col-sm-6">
-				<p><small>Where</small></p>
-				<p>Caulfield Racecourse</p>
+				<div class="big_detail">
+					<img src="design/images/home/big_details/map.png" alt="map" />
+					<p><small>Where</small></p>
+					<p>At <span>Caulfield Racecourse</span></p>
+				</div>
 			</div>
 		</div>
 	</div>
 </section>
 
-<section class="intro">
+
+<section class="tabs">
 	<div class="container">
-		<p>For a ten week period running from December 2013 to February 2014, picture sixty stalls, each representing a country with its own unique cuisine! Each week will host it's own theme ranging from the Australian Open to Chinese New Year to the Rio Carnivale so there's no reason not to come back for more!
-	</p>
+		<ul class="nav nav-tabs nav-justified">
+			<li class="info_tab active"><a href="#home" data-toggle="tab"><img src="design/images/home/tabs/stalls.png" alt="stalls">Stalls</a></li>
+			<li class="info_tab"><a href="#profile" data-toggle="tab"><img src="design/images/home/tabs/beer.png" alt="beer">Beers</a></li>
+			<li class="info_tab"><a href="#messages" data-toggle="tab"><img src="design/images/home/tabs/shows.png" alt="shows">Shows</a></li>
+			<li class="info_tab"><a href="#settings" data-toggle="tab"><img src="design/images/home/tabs/themes.png" alt="themes">Themes</a></li>
+		</ul>
+		
+		<div class="tab-content">
+			<div class="tab-pane active" id="home">
+				<div class="container">
+					<div class="rows">
+						<div class="col-sm-6">
+							<h2>Stalls full of delicious food?!</h2>
+							<p><strong>That's right!</strong> Summer Food Festival will be showcasing nom noms from all over the world. From stalls to food trucks, from Italy to Japan, expect a world of food in one location. Oh, and nothing will be over $8!</p>
+							<p>Want to become a vendor? <a href="vendor.php">Learn more</a> or <a href="mailto:adrian@summerfoodfestival.com.au">contact Adrian</a> for more info!
+							</p>
+						</div>
+						<div class="col-sm-6">
+							<img class="img-responsive" src="design/images/home/tabs/stall_img.png" alt="beer_image"/>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane" id="profile">
+				<div class="container">
+					<div class="rows">
+						<div class="col-sm-6">
+							<img class="img-responsive" src="design/images/home/tabs/beer_img.png" alt="beer_image"/>
+						</div>
+						<div class="col-sm-6">
+							<h2>Beer, glorious beer</h2>
+							<p><strong>Here's the deal.</strong> Summer is hot, beer is cold. Not to mention delicious. There's nothing like kicking back in the sun, listening to performances from all over, while sipping on that ice cold brewski.
+							</p>
+							<p>It's so close you can smell it. <a href="#newsletter">Join our newsletter</a> to keep in the loop.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane" id="messages">
+				<div class="container">
+					<div class="rows">
+						<div class="col-sm-6">
+							<h2>We'll keep you entertained</h2>
+							<p><strong>As if food and beer wasn't enough!</strong> Boy, do we have a treat for you! We'll be bringing international musical acts, entertainers and awesome demonstrators who like teaching people how to cook!</p>
+							</p>
+							<p>Want to be a part of this? <a href="mailto:vince@summerfoodfestival">Contact Vince</a> for happy times.
+							</p>
+						</div>
+						<div class="col-sm-6">
+							<img class="img-responsive" src="design/images/home/tabs/shows_img.png" alt="shows"/>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="tab-pane" id="settings">
+				<div class="container">
+					<div class="rows">
+						<div class="col-sm-6">
+							<img class="img-responsive" src="design/images/home/tabs/themes_img.png" alt="beer_image"/>
+						</div>
+						<div class="col-sm-6">
+							<h2>A reason to come back</h2>
+							<p><strong>Easily bored?</strong> We've got you covered. Summer Food Festival brings you a new experience every week by changing the theme up. Ranging from the Chinese New Year theme, all the way to from kicking back in front of a giant projector to watch the Australian Open, every week has something in store!
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
 
-<section class="features">
+
+<section class="images">
 	<div class="container">
+		<a href="#"><img class="img-responsive" src="design/images/home/images/images.png" alt="images"/></a>
+	</div>
+</section>
+
+<section class="newsletter">
+	<div class="container">
+		<h2>We'll let you know what's happening</h2>
 		<div class="row">
-			<div class="col-sm-4">
-				<div class="feature">
-					<h4>Themes </h4>
-					<p></p>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="feature">
-					<h4>Bringing the world to Melbourne</h4>
-					<p>We'll be bringing the tastes and sounds of the world to your doorstep.</p>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="feature">
-					<h4>10 weeks</h4>
-					<p>We'll be bringing the tastes and sounds of the world to your doorstep.</p>
-				</div>
+			<div class="col-sm-4 col-sm-offset-4">
+				<form>
+					<input class="form-control input-lg" type="text" placeholder="name@example.com">
+					<button type="button" class="btn btn-primary btn-lg btn-block"><i class="icon ss-mail"></i> Ok, go!</button>
+				</form>
 			</div>
 		</div>
+		<p>Pinky promise, we won't send anything annoying. We hate that too.</p>
 	</div>
 </section>
+
+
 <?php include 'footer.php'; ?>

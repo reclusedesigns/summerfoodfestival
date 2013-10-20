@@ -14,6 +14,9 @@
 
 <h2>House rules</h2>
 
-
+<div class="action">
+	<p>Contact us to become a vendor</p>
+	<a href="#">Contact us</a>
+</div>
 
 <?php include 'footer.php'; ?>

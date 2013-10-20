@@ -1,12 +1,9 @@
 
 <footer>
 	<div class="container">
-		<hr>
 		<ul class="list-inline">
-			<li>&copy; Cartel Ventures</li>
-			<li>Terms and Conditions</li>
-			<li>Privacy</li>
-			<li class=pull-right><a href="http://capsule.vc">Capsule Made</a></li>
+			<li>&copy; Copyright MPA Events 2013</li>
+			<li class="pull-right"><a class="capsule" href="http://capsule.vc"><img src="design/images/home/footer/capsule.png" alt="capsule" width="25" height="20" /> Capsule Made</a></li>
 		</ul>
 	</div>
 </footer>
