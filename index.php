@@ -112,16 +112,31 @@
 
 <section class="newsletter">
 	<div class="container">
-		<h2>We'll let you know what's happening</h2>
+		<h2>Stay in the loop.</h2>
 		<div class="row">
 			<div class="col-sm-4 col-sm-offset-4">
-				<form>
-					<input class="form-control input-lg" type="text" placeholder="name@example.com">
-					<button type="button" class="btn btn-primary btn-lg btn-block"><i class="icon ss-mail"></i> Ok, go!</button>
-				</form>
+								
+				<!-- Begin MailChimp Signup Form -->
+				<div id="mc_embed_signup">
+					<form action="http://summerfoodfestival.us7.list-manage1.com/subscribe/post?u=d97d73c7a05680d4fd0c46820&amp;id=13874719a3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<div class="mc-field-group">
+						<input type="email" value="" name="EMAIL" class="required email form-control input-lg" id="mce-EMAIL" placeholder="name@example.com">
+					</div>
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>	
+						<div class="clear">
+						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary btn-lg btn-block">
+						</div>
+					</form>
+				</div>
+				
+				<!--End mc_embed_signup-->
+			
 			</div>
 		</div>
-		<p>Pinky promise, we won't send anything annoying. We hate that too.</p>
+		<p>We won't send anything annoying. We hate that too.</p>
 	</div>
 </section>
 
