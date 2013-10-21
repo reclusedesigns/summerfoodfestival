@@ -19,10 +19,29 @@
 			</div>
 			<div class="col-sm-6">
 				<div class="big_detail">
-					<img src="design/images/home/big_details/map.png" alt="map" />
+					<a href="http://goo.gl/maps/MOu5Y" target="_blank"><img src="design/images/home/big_details/map.png" alt="map" /></a>
 					<p><small>Where</small></p>
-					<p>At <span>Caulfield Racecourse</span></p>
+					<p>At <a href="http://goo.gl/maps/MOu5Y" target="_blank"><span>Caulfield Racecourse</span></a></p>
 				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="big_numbers">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-4">
+				<h4>10</h4>
+				<p>Weeks straight of sun, food, beer and fun! Expect entertainers from around the globe and demonstrations from master chefs!</p>
+			</div>
+			<div class="col-sm-4">
+				<h4>60+</h4>
+				<p>Stalls selling food from different countries. No two vendors are allowed to sell the same thing! Try something new every Sunday!</p>
+			</div>
+			<div class="col-sm-4">
+				<h4>$8</h4>
+				<p>That's as much as you'll spend for a dish. We've capped menu items at $8 allowing for an affordable experience for everyone!</p>
 			</div>
 		</div>
 	</div>
@@ -128,7 +147,7 @@
 	</div>
 </section>
 
-<section class="newsletter">
+<section class="newsletter" id="newsletter">
 	<div class="container">
 		<h2>Stay in the loop.</h2>
 		<div class="row">
