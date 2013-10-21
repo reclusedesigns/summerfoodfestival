@@ -67,10 +67,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					<h2>Email us on <a href="hello@summerfoodfestival.com.au">hello@summerfoodfestival.com.au</a></h2>
+					<h2>Email us on <a href="mailto:hello@summerfoodfestival.com.au">hello@summerfoodfestival.com.au</a></h2>
 				</div>
 				<div class="col-sm-6">
-					<h2>Or add us on<br><a href="http://facebook.com/sffmelb" target="_blank">Facebook</a> <a href="http://twitter.com/sffmelb" target="_blank">Twitter</a> <a href="http://instagram.com/sffmelb">Instagram</a></h2>
+					<h2>Or add us on<br><a href="http://facebook.com/sffmelb" target="_blank">Facebook</a> <a href="http://twitter.com/SFFMelb" target="_blank">Twitter</a> <a href="http://instagram.com/Summerfoodfestival">Instagram</a></h2>
 				</div>
 			</div>
 		</div>

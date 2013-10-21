@@ -33,14 +33,17 @@
 		<div class="row">
 			<div class="col-sm-4">
 				<h4>10</h4>
+				<img src="design/images/home/big_details/line.jpg" alt="line" />
 				<p>Weeks straight of sun, food, beer and fun! Expect entertainers from around the globe and demonstrations from master chefs!</p>
 			</div>
 			<div class="col-sm-4">
-				<h4>60+</h4>
+				<h4>50</h4>
+				<img src="design/images/home/big_details/line.jpg" alt="line" />
 				<p>Stalls selling food from different countries. No two vendors are allowed to sell the same thing! Try something new every Sunday!</p>
 			</div>
 			<div class="col-sm-4">
 				<h4>$8</h4>
+				<img src="design/images/home/big_details/line.jpg" alt="line" />
 				<p>That's as much as you'll spend for a dish. We've capped menu items at $8 allowing for an affordable experience for everyone!</p>
 			</div>
 		</div>

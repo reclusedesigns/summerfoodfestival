@@ -3,7 +3,7 @@
 	<div class="container">
 		<ul class="list-inline">
 			<li>&copy; Copyright MPA Events 2013</li>
-			<li class="pull-right"><a class="capsule" href="http://capsule.vc"><img src="design/images/home/footer/capsule.png" alt="capsule" width="25" height="20" /> Capsule Made</a></li>
+			<li class="pull-right"><a class="capsule" href="http://capsule.vc" target="_blank"><img src="design/images/home/footer/capsule.png" alt="capsule" width="25" height="20" /> Capsule Made</a></li>
 		</ul>
 	</div>
 </footer>
