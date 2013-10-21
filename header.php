@@ -34,6 +34,7 @@
 <body>
 
 
+
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="container">
 	  <div class="navbar-header">
@@ -54,8 +55,23 @@
 	      <li><a href="sponsor.php">Sponsors us</a></li>
 	      <li><a href="volunteer.php">Get involved!</a></li>
 -->
-	      <li><a href="contact.php" class="contact">Contact us</a></li>
+	      <li><a href="#" class="contact js_contact_click">Contact us</a></li>
 	    </ul>
-	  </div><!-- /.navbar-collapse -->
+	  </div>
   </div>
 </nav>
+
+
+
+<div class="contact_drop js_contact_toggle">	
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<h2>Email us on <a href="hello@summerfoodfestival.com.au">hello@summerfoodfestival.com.au</a></h2>
+				</div>
+				<div class="col-sm-6">
+					<h2>Or add us on<br><a href="http://facebook.com/sffmelb" target="_blank">Facebook</a> <a href="http://twitter.com/sffmelb" target="_blank">Twitter</a> <a href="http://instagram.com/sffmelb">Instagram</a></h2>
+				</div>
+			</div>
+		</div>
+	</div> <!-- contact_drop -->

@@ -15,7 +15,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
-				<h2>What you get</h2>
+				<h2>Here's what you need to know</h2>
+				<p class="lead">This happens every sunday for 10 weeks from <strong>December the 8th</strong> to <strong>February the 9th</strong>. 
+				<p>The stalls will be set up in Caulfield Racecourse's main entertainment area which holds enough room for over 60 vendors and numerous food trucks. 5000+ people are to attend weekly with demonstrations from past Masterchef contestants such as <a href="http://callumhann.com.au/">Callum Hann</a> which will set the overall tone, not to mention world-class musical and dance performers which are sure to add to the numbers.</p>
+				<p>To advertise, print guerrilla marketing will be utilised to spread word with a focus on a viral online presence. The usual local media outlets, sponsor networks and mail-drops will also be utilised.</p>
+				<p><strong>Please take note</strong> that we are capping menu items at $8 for all vendors. This is a small part of what sets us apart from other markets. Summer Food Festival is the most fun and affordable Sunday out!</p>
 			</div>
 			<div class="col-sm-6">
 				<ul class="pricing list-unstyled">
@@ -105,6 +109,7 @@
 	</div>
 </section>
 
+<!--
 
 <section class="about">
 	<div class="container">
@@ -112,6 +117,7 @@
 		<img class="img-responsive" src="design/images/vendors/map.png" alt="map" />
 	</div>
 </section>
+-->
 
 
 <section class="images">
@@ -124,10 +130,7 @@
 
 <section class="call_to_action">
 	<div class="container">
-		<div class="action">
-			<p>Contact us to become a vendor</p>
-			<a href="#">Contact us</a>
-		</div>
+		<p class="contact_age"><img class="profile" src="design/images/vendors/age.jpg" alt="adrian_gardon" /> Contact Adrian on <strong>0481 221 331</strong> or <a href="mailto:adrian@summerfoodfestival.com.au">email him here.</a></p>
 	</div>
 </section>
 <?php include 'footer.php'; ?>
