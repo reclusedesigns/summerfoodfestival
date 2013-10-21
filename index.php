@@ -14,7 +14,7 @@
 				<div class="big_detail">
 					<img src="design/images/home/big_details/calendar.png" alt="calendar"/>
 					<p><small>When</small></p>
-					<p>Starts <span>8th of December</span></p>
+					<p>Starts <span>22nd of December</span></p>
 				</div>
 			</div>
 			<div class="col-sm-6">
