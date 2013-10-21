@@ -34,7 +34,7 @@
 <body>
 
 
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="container">
 	  <div class="navbar-header">
 	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -50,8 +50,10 @@
 	  <div class="collapse navbar-collapse navbar-ex1-collapse">
 	    <ul class="nav navbar-nav navbar-right">
 	      <li><a href="vendor.php">Become a vendor</a></li>
+<!--
 	      <li><a href="sponsor.php">Sponsors us</a></li>
 	      <li><a href="volunteer.php">Get involved!</a></li>
+-->
 	      <li><a href="contact.php" class="contact">Contact us</a></li>
 	    </ul>
 	  </div><!-- /.navbar-collapse -->

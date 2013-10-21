@@ -106,7 +106,7 @@
 
 <section class="images">
 	<div class="container">
-		<a href="#"><img class="img-responsive" src="design/images/home/images/images.png" alt="images"/></a>
+		<a href="http://www.youtube.com/watch?v=tvBRV0Ze-C8" target="_blank"><img class="img-responsive" src="design/images/home/images/images.png" alt="images"/></a>
 	</div>
 </section>
 
