@@ -44,7 +44,7 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>
-	    <a class="navbar-brand" href="index.php"><img src="design/images/navbar/logo.png"></a>
+	    <a class="navbar-brand" href="index.php"><img src="design/images/navbar/logo2.png"></a>
 	  </div>
 	
 	  <!-- Collect the nav links, forms, and other content for toggling -->

@@ -110,6 +110,24 @@
 	</div>
 </section>
 
+<section class="sponsors">
+	<div class="container">
+		<h2>Our amazing sponsors</h2>
+		<div class="col-sm-3">
+			<a href="http://elusivevapor.com.au/" target="_blank"><img class="img-responsive" src="design/images/home/sponsors/1.png" alt="1" /></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="http://www.squareweave.com.au/" target="_blank"><img class="img-responsive" src="design/images/home/sponsors/2.png" alt="1" /></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="design/images/home/sponsors/3.png" alt="1" /></a>
+		</div>
+		<div class="col-sm-3">
+			<a href="#"><img class="img-responsive" src="design/images/home/sponsors/4.png" alt="1" /></a>
+		</div>
+	</div>
+</section>
+
 <section class="newsletter">
 	<div class="container">
 		<h2>Stay in the loop.</h2>
