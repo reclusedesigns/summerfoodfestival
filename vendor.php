@@ -134,4 +134,34 @@
 		<p class="contact_age"><img class="profile" src="design/images/vendors/age.jpg" alt="adrian_gardon" /> Contact Adrian on <strong>0481 221 331</strong> or <a href="mailto:adrian@summerfoodfestival.com.au">email him here.</a></p>
 	</div>
 </section>
+
+<section class="newsletter" id="newsletter">
+	<div class="container">
+		<h2>Stay in the loop.</h2>
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-4">
+								
+				<!-- Begin MailChimp Signup Form -->
+				<div id="mc_embed_signup">
+					<form action="http://summerfoodfestival.us7.list-manage1.com/subscribe/post?u=d97d73c7a05680d4fd0c46820&amp;id=13874719a3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<div class="mc-field-group">
+						<input type="email" value="" name="EMAIL" class="required email form-control input-lg" id="mce-EMAIL" placeholder="name@example.com">
+					</div>
+					<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>	
+						<div class="clear">
+						<input type="submit" value="Let me know" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary btn-lg btn-block">
+						</div>
+					</form>
+				</div>
+				
+				<!--End mc_embed_signup-->
+			
+			</div>
+		</div>
+		<p>We won't send anything annoying. We hate that too.</p>
+	</div>
+</section>
 <?php include 'footer.php'; ?>
