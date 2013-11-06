@@ -69,7 +69,7 @@
 						<ul class="list-inline">
 							<li>3x3 stall</li>
 							<li>$500 deposit</li>
-							<li>*no softdrinks, no alchohol</li>
+							<li>*no softdrinks, no alcohol</li>
 							<li class="pull-right">
 								<span class="cost">
 									<span class="dollar">$</span>250
@@ -79,7 +79,7 @@
 						</ul>
 					</li>
 					<li class="item">
-						<span class="title">Deserts only</span>
+						<span class="title">Desserts only</span>
 						<ul class="list-inline">
 							<li>3x6 stall</li>
 							<li>$1000 deposit</li>
