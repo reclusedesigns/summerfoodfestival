@@ -1,0 +1,117 @@
+/* Andrew Chin does all the codes and doesn't even scard */
+
+/* first some universal things */
+/* ______________________________________________________________________*/
+
+/* bootstrap/body hacks */
+.icon{background-image:none !important; position: relative;top:2px;}
+
+::selection {background: #ffb7b7; /* Safari */}
+::-moz-selection {background: #ffb8b8; /* Firefox */}
+a:focus {outline: 0;}
+
+
+
+/* typography */
+h1,h2,h3{font-family: 'Amatic SC', cursive;}
+
+h4,h5,h6, p,ul li{font-family: 'Lato', sans-serif;}
+h1{font-size: 80px;}
+h2{font-size: 50px;}
+h4{font-weight: 900; font-size: 80px; color:#eb7d4c; text-shadow: 0 1px 1px #fff; line-height: 80px;}
+p{font-size: 16px; line-height: 24px;}
+
+
+/* HEADER */
+/* ______________________________________________________________________*/
+
+.navbar{background-color: #2c2f31; border:none; border-radius: 0; margin-bottom: 0; border-top:5px solid #e0d24b;}
+.navbar .navbar-brand img{width: 120px; margin: 0 auto;}
+.navbar li a{font-size:11px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase;	margin:35px 10px 0; color:#fff; color:#ddd;}
+.navbar .nav li a:hover{color:#fff;}
+.navbar .nav li a.contact{background-color:#f4e939; border-radius: 5px; color:#2c2f31;}
+
+/* HOME */
+/* ______________________________________________________________________*/
+
+/* hero */
+/* .hero{background: url(../images/home/hero/hero.jpg) no-repeat center; background-size: cover; min-height: 480px;} */
+.hero h1, .hero h3{text-indent: -9999px; position: absolute;	}
+
+/* big details */
+.big_details{background:#fff; padding:30px 0;}
+.big_detail{background:#2c2f31; padding:10px 15px; color:#e3e3e3; min-height: 122px; border-radius: 5px;}
+.big_detail img{float: left; margin-right:20px;}
+.big_detail p{font-size: 35px; padding-top:0; line-height: 20px;}
+.big_detail p small{display: block; padding-top:20px; font-weight: bold; text-transform: uppercase; color:#78797a; font-size: 13px;}
+.big_detail p span{color:#f4e939}
+
+.big_numbers{text-align: center; padding:40px 0; background:#f7f6ef; border-top:1px solid #e0dece; background:url(../images/home/big_details/backer.png)}
+.big_numbers p{color:#837a76;}
+.big_numbers img{padding-bottom:20px;}
+
+/* tabs */
+.tabs{padding:60px; background:#2C2F31;}
+.tabs .info_tab img{display: block; margin: 0 auto; margin-top:-25px; padding-bottom:10px;}
+.tabs .info_tab a{font-size:13px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; color:#fff;}
+
+.tabs .tab-content{padding:30px 0; background:#fff; border:1px solid #ddd; border-top:none; border-radius: 0 0 5px 5px;}
+.tabs .tab-content h2{color:#8cb8bf}
+.tabs .tab-content img{border-radius: 5px;}
+
+/* images */
+.images{padding:60px 0;}
+
+/* sponsors */
+.sponsors {background:#eee; text-align: center; padding:20px 0 30px;}
+.sponsors img{display: block; margin: 0 auto;}
+.sponsors a:hover{opacity: 0.8;}
+
+/* newsletter */
+.newsletter{background:#5d6b74; padding:60px 0; color:#fff; text-align: center; background:url(../images/home/newsletter/backer.png)}
+.newsletter input{margin-bottom:10px;}
+.newsletter .button{margin-bottom:20px; background:#f4e939; color:#222; border:none;}
+.newsletter .button:hover{background:#dfd535; color:#111;}
+.newsletter p{color:#ddd;}
+
+
+/* VENDORS */
+/* ______________________________________________________________________*/
+.start{background:#f7f6ef; padding:40px 0;}
+.start h2{border-bottom: 1px dotted #5d6b74; font-size: 60px; padding-bottom:10px; color:#5d6b74;}
+.start p{color: #777;}
+.contact_age{background:#eee; padding:10px; border-radius: 5px; border:1px solid #ccc; text-align: center; font-size: 20px; margin-bottom:50px;}
+.contact_age img.profile{border-radius: 999em; border:5px solid #fff; margin-right:10px;}
+
+.pricing{padding:10px; border-radius: 5px; border:1px solid #ccc; background:#fff; margin-top:13px;}
+.pricing .item:last-child{border-bottom:none;}
+.pricing .item{font-size: 30px; position: relative; border-bottom: 1px dotted #ddd; padding:10px 0 20px;}
+.pricing .item ul{display: block; line-height: 10px;}
+.pricing .item ul li{font-size: 14px; font-weight: bold;  color: #ccc; padding-left: 0; padding-right: 10px;}
+.pricing .item .cost{background:#1f1f1f; padding:10px; border-radius: 5px; color:#fff; font-size: 32px; font-weight: bold; position: relative; top:-10px;}
+.pricing .item .cost .dollar{font-size: 14px; position: relative; top:-13px; font-style: normal;}
+.pricing .item .cost small{font-size: 11px; text-transform: uppercase;}
+
+
+/* FOOTER */
+/* ______________________________________________________________________*/
+footer{background:#2c2f31; color:#fff; padding:20px;}
+footer ul li{color:#aaa;}
+footer ul li a.capsule{color:#fff;}
+
+
+/* contact */
+.contact_drop{display:none; padding:40px 0; background-color:#efefef; border-bottom:5px solid #e0d24b; color:#fff;
+	background: #eb7d4c; /* Old browsers */
+background: -moz-linear-gradient(top,  #eb7d4c 1%, #e0d44c 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#eb7d4c), color-stop(100%,#e0d44c)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #eb7d4c 1%,#e0d44c 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #eb7d4c 1%,#e0d44c 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #eb7d4c 1%,#e0d44c 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #eb7d4c 1%,#e0d44c 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb7d4c', endColorstr='#e0d44c',GradientType=0 ); /* IE6-9 */
+
+}
+
+.contact_drop a{color:#fff; text-decoration: underline;}
+.contact_drop a:hover{text-decoration: none;	}
