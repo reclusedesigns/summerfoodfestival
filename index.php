@@ -51,7 +51,6 @@
 </section>
 
 
-<!--
 <section class="tabs">
 	<div class="container">
 		<ul class="nav nav-tabs nav-justified">
@@ -126,7 +125,6 @@
 	</div>
 </section>
 
--->
 
 <section class="images">
 	<div class="container">
