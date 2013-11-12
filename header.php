@@ -16,7 +16,8 @@
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
 	
 	<!-- fonts -->
-	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic|Amatic+SC' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
+
 	
 	
 	<script>
@@ -44,18 +45,16 @@
 	      <span class="icon-bar"></span>
 	      <span class="icon-bar"></span>
 	    </button>
-	    <a class="navbar-brand" href="index.php"><img src="design/images/navbar/logo2.png"></a>
+	    <!-- <a class="navbar-brand" href="index.php"><img src="design/images/navbar/logo2.png"></a> -->
 	  </div>
 	
 	  <!-- Collect the nav links, forms, and other content for toggling -->
 	  <div class="collapse navbar-collapse navbar-ex1-collapse">
 	    <ul class="nav navbar-nav navbar-right">
-	      <li><a href="vendor.php">Become a vendor</a></li>
-<!--
-	      <li><a href="sponsor.php">Sponsors us</a></li>
-	      <li><a href="volunteer.php">Get involved!</a></li>
--->
-	      <li><a href="#" class="contact js_contact_click">Contact us</a></li>
+	    	<li><a href="stalls.php">When&amp;where</a></li>
+	      <li><a href="stalls.php">See the stalls</a></li>
+	      <li><a href="vendor.php">Rent a spot</a></li>
+	      <li><a href="#" class="contact js_contact_click"><i class="icon ss-mail"></i> </a></li>
 	    </ul>
 	  </div>
   </div>
@@ -67,7 +66,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					<h2>Email us on <a href="mailto:hello@summerfoodfestival.com.au">hello@summerfoodfestival.com.au</a></h2>
+					<h3>Email us on</h3><br>
+						<a href="mailto:hello@summerfoodfestival.com.au">
+							hello@summerfoodfestival.com.au
+						</a>
 				</div>
 				<div class="col-sm-6">
 					<h2>Or add us on<br><a href="http://facebook.com/sffmelb" target="_blank">Facebook</a> <a href="http://twitter.com/SFFMelb" target="_blank">Twitter</a> <a href="http://instagram.com/Summerfoodfestival">Instagram</a></h2>
