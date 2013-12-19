@@ -37,7 +37,7 @@
 
 
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
-  <div class="container">
+
 	  <div class="navbar-header">
 	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
 	      <span class="sr-only">Toggle navigation</span>
@@ -51,13 +51,15 @@
 	  <!-- Collect the nav links, forms, and other content for toggling -->
 	  <div class="collapse navbar-collapse navbar-ex1-collapse">
 	    <ul class="nav navbar-nav navbar-right">
-	    	<li><a href="stalls.php">When&amp;where</a></li>
+	    	<!--
+<li><a href="stalls.php">When &amp; where</a></li>
 	      <li><a href="stalls.php">See the stalls</a></li>
 	      <li><a href="vendor.php">Rent a spot</a></li>
+-->
 	      <li><a href="#" class="contact js_contact_click"><i class="icon ss-mail"></i> </a></li>
 	    </ul>
 	  </div>
-  </div>
+
 </nav>
 
 
